@@ -1,0 +1,1281 @@
+﻿Log file open, 10/21/19 14:10:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Jeu_Foxing288
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.717681
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.526s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/loedu/OneDrive/Documents/Fichiers à garder avant réinitialisation/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.058s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.21-12.10.21:141][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-12.10.21:141][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.21-12.10.21:255][  0]LogHAL: Display: Platform has ~ 16 GB [17148526592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.21-12.10.21:255][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.21-12.10.21:255][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.21-12.10.21:300][  0]LogInit: Computer: DESKTOP-B3FPI2E
+[2019.10.21-12.10.21:300][  0]LogInit: User: loedu
+[2019.10.21-12.10.21:300][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.21-12.10.21:300][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.21-12.10.21:300][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.10.21-12.10.21:300][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.21-12.10.21:300][  0]LogMemory: Process Physical Memory: 101.76 MB used, 101.77 MB peak
+[2019.10.21-12.10.21:300][  0]LogMemory: Process Virtual Memory: 89.33 MB used, 89.33 MB peak
+[2019.10.21-12.10.21:300][  0]LogMemory: Physical Memory: 5562.34 MB used,  10791.77 MB free, 16354.11 MB total
+[2019.10.21-12.10.21:300][  0]LogMemory: Virtual Memory: 4626.95 MB used,  10791.77 MB free, 134217728.00 MB total
+[2019.10.21-12.10.22:108][  0]LogInit: Using OS detected language (fr-FR).
+[2019.10.21-12.10.22:108][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.10.21-12.10.22:199][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.10.21-12.10.22:315][  0]LogStreaming: Display: Took  0.207s to InitEngineTextLocalization.
+[2019.10.21-12.10.22:315][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.21-12.10.23:000][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.21-12.10.23:000][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.21-12.10.27:119][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.21-12.10.27:119][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.21-12.10.27:254][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.10.21-12.10.27:254][  0]LogD3D11RHI:       8137/0/8177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.10.21-12.10.27:259][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.21-12.10.27:259][  0]LogD3D11RHI:       0/0/8177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.21-12.10.27:259][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.21-12.10.27:271][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.21-12.10.27:272][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.10.21-12.10.27:272][  0]LogWindows: EnumDisplayDevices:
+[2019.10.21-12.10.27:272][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.10.21-12.10.27:272][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2019.10.21-12.10.27:273][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:274][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:274][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:275][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:275][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:275][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.10.21-12.10.27:276][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.10.21-12.10.27:276][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.10.21-12.10.27:276][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.8.1 (internal:26.20.13001.29010, unified:26.20.13001.29010)
+[2019.10.21-12.10.27:276][  0]LogD3D11RHI:      Driver Date: 8-8-2019
+[2019.10.21-12.10.27:276][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2019.10.21-12.10.27:441][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.21-12.10.27:455][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.10.21-12.10.27:457][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Intermediate/Shaders/WorkingDirectory/10388/).
+[2019.10.21-12.10.27:457][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/loedu/AppData/Local/Temp/UnrealShaderWorkingDir/5593ED8844EEFC7565A364A417428AE1/'.
+[2019.10.21-12.10.28:842][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.21-12.10.28:907][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.21-12.10.28:969][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.21-12.10.29:024][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.21-12.10.29:105][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.21-12.10.29:163][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.21-12.10.29:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.21-12.10.29:281][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.21-12.10.29:326][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.21-12.10.29:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:562][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.21-12.10.29:608][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.21-12.10.29:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.21-12.10.29:839][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.21-12.10.29:914][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.21-12.10.29:914][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.21-12.10.29:962][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.21-12.10.30:020][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.21-12.10.30:077][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.21-12.10.30:171][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.21-12.10.30:218][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.21-12.10.30:218][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.21-12.10.31:484][  0]LogXGEController: Cleaning working directory: C:/Users/loedu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.21-12.10.31:484][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.21-12.10.31:484][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.21-12.10.31:484][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.21-12.10.39:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.21-12.10.39:680][  0]LogDerivedDataCache: Loaded boot cache 0.64s 71MB C:/Users/loedu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.21-12.10.39:681][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/loedu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.21-12.10.39:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.21-12.10.39:681][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.21-12.10.39:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.21-12.10.39:681][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.21-12.10.39:761][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.21-12.10.39:790][  0]LogDerivedDataCache: Using Local data cache path C:/Users/loedu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.21-12.10.39:790][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.21-12.10.39:790][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.21-12.10.39:820][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.21-12.10.39:822][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.21-12.10.39:894][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.21-12.10.41:829][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2019.10.21-12.10.42:552][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-12.10.44:980][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.21-12.10.45:264][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.21-12.10.45:264][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.21-12.10.45:264][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.21-12.10.45:264][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.21-12.10.45:517][  0]LogNetVersion: Jeu_Foxing288 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1956030867)
+[2019.10.21-12.10.51:215][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.480757 seconds
+[2019.10.21-12.10.51:227][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.21-12.10.51:227][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.10.21-12.10.51:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.21-12.11.22:267][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.21-12.11.22:418][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.21-12.11.24:218][  0]SourceControl: Source control is disabled
+[2019.10.21-12.11.24:218][  0]SourceControl: Source control is disabled
+[2019.10.21-12.11.24:375][  0]SourceControl: Source control is disabled
+[2019.10.21-12.11.24:439][  0]SourceControl: Source control is disabled
+[2019.10.21-12.11.29:052][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.21-12.11.30:012][  0]LogOcInput: OculusInput pre-init called
+[2019.10.21-12.11.30:546][  0]LogEngine: Initializing Engine...
+[2019.10.21-12.11.30:548][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.21-12.11.30:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.21-12.11.30:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.21-12.11.30:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.21-12.11.30:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.21-12.11.33:860][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.21-12.11.33:992][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.21-12.11.34:093][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.11.34:113][  0]LogInit: FAudioDevice initialized.
+[2019.10.21-12.11.34:114][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.21-12.11.34:279][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/loedu/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.21-12.11.34:288][  0]LogInit: Texture streaming: Enabled
+[2019.10.21-12.11.34:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.21-12.11.34:531][  0]LogInit: Transaction tracking system initialized
+[2019.10.21-12.11.34:816][  0]BlueprintLog: New page: Editor Load
+[2019.10.21-12.11.36:391][  0]LocalizationService: Localization service is disabled
+[2019.10.21-12.11.40:121][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.21-12.11.40:121][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.21-12.11.40:121][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.21-12.11.40:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.21-12.11.40:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.21-12.11.40:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.21-12.11.40:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.21-12.11.41:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/loedu/OneDrive/Documents/GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/' took 0.05s
+[2019.10.21-12.11.44:040][  0]SourceControl: Source control is disabled
+[2019.10.21-12.11.44:040][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.21-12.11.44:040][  0]LogEditorServer: Warning: Can't find file '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.21-12.11.44:041][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.21-12.11.44:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 145,428ms to complete.
+[2019.10.21-12.11.44:186][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.146
+[2019.10.21-12.11.44:566][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.11.44:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.11.44:589][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.11.44:600][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.11.44:721][  0]LogCollectionManager: Loaded 0 collections in 0.021714 seconds
+[2019.10.21-12.11.44:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/loedu/OneDrive/Documents/GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/Collections/' took 0.01s
+[2019.10.21-12.11.44:778][  0]LogFileCache: Scanning file cache for directory 'C:/Users/loedu/OneDrive/Documents/GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Developers/loedu/Collections/' took 0.01s
+[2019.10.21-12.11.44:778][  0]LogFileCache: Scanning file cache for directory 'C:/Users/loedu/OneDrive/Documents/GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Collections/' took 0.01s
+[2019.10.21-12.11.44:778][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.21-12.11.44:796][  0]LogContentBrowser: Native class hierarchy populated in 0.0183 seconds. Added 2572 classes and 603 folders.
+[2019.10.21-12.11.44:808][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.11.50:098][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.11.50:154][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.21-12.11.50:377][  0]LogSlate: Took 0.019765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.21-12.11.50:421][  0]LogSlate: Took 0.041547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.21-12.11.50:442][  0]LogSlate: Took 0.014632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.21-12.11.50:959][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-12.11.51:434][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.11.51:434][  0]LogLoad: (Engine Initialization) Total time: 141.19 seconds
+[2019.10.21-12.11.51:434][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.21-12.11.51:474][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.21-12.11.51:644][  2]LogAssetRegistry: Asset discovery search completed in 69.8377 seconds
+[2019.10.21-12.11.51:646][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.21-12.11.51:646][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.10.21-12.11.55:712][ 14]LogSlate: Took 0.036105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-12.12.29:522][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.12.38:894][763]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.21-12.12.39:106][764]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JeuFoxing288
+[2019.10.21-12.12.39:106][764]LogTemp: CWD: C:\Users\loedu\OneDrive\Documents\Fichiers ? garder avant r?initialisation\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.10.21-12.12.39:106][764]LogTemp: Initial Dir: C:\Users\loedu\OneDrive\Documents\Fichiers ? garder avant r?initialisation\Epic Games\UE_4.20
+[2019.10.21-12.12.39:106][764]LogTemp: Env CWD: C:\Users\loedu\OneDrive\Documents\Fichiers ? garder avant r?initialisation\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.10.21-12.12.39:106][764]LogTemp: BranchPath = DESKTOP-B3FPI2E/C/Users/loedu/OneDrive/Documents/Fichiers ? garder avant r?initialisation/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-B3FPI2E/C/Users/loedu/OneDrive/Documents/Fichiers ? garder avant r?initialisation/Epic Games/UE_4.20/Engine/Binaries
+[2019.10.21-12.12.39:106][764]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\loedu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.10.21-12.12.50:982][717]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-12.12.58:225][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.12.58:260][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.12.58:279][502]PIE: New page: PIE session: Untitled_0 (21 oct. 2019 16:12:58)
+[2019.10.21-12.12.58:280][502]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.10.21-12.12.58:281][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000924s)
+[2019.10.21-12.12.58:281][502]LogAIModule: Creating AISystem for world Untitled
+[2019.10.21-12.12.58:282][502]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.10.21-12.12.58:282][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.001995s)
+[2019.10.21-12.12.58:472][502]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.12.58:485][502]LogInit: FAudioDevice initialized.
+[2019.10.21-12.12.58:531][502]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.12.58:567][502]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 0) at 2019.10.21-14.12.58
+[2019.10.21-12.12.58:567][502]LogWorld: Bringing up level for play took: 0.000548
+[2019.10.21-12.12.58:602][502]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.10.21-12.12.58:607][502]PIE: Warning: AttachTo: '/Temp/UEDPIE_0_Untitled_0.Untitled:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.12.58:608][502]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0,748
+[2019.10.21-12.13.01:210][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.13.01:255][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.13.01:371][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.13.01:408][805]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.21-12.13.02:983][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.13.04:780][  6]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.13.04:837][  6]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevel.TestLevel
+[2019.10.21-12.13.04:954][  6]Cmd: MAP LOAD FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.21-12.13.04:954][  6]LightingResults: New page: Lighting Build
+[2019.10.21-12.13.04:958][  6]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.10.21-12.13.04:959][  6]LoadErrors: New page: Loading map: TestLevel.umap
+[2019.10.21-12.13.04:959][  6]MapCheck: New page: Map Check
+[2019.10.21-12.13.04:959][  6]LightingResults: New page: Lighting Build
+[2019.10.21-12.13.05:240][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.21-12.13.05:426][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.21-12.13.05:594][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168,023ms to complete.
+[2019.10.21-12.13.05:598][  6]LogFileHelpers: Loading map 'TestLevel' took 0.646
+[2019.10.21-12.13.06:493][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.21-12.13.07:173][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.13.07:245][141]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.13.07:280][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.13.07:281][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.13.07:281][141]PIE: New page: PIE session: TestLevel (21 oct. 2019 16:13:07)
+[2019.10.21-12.13.07:281][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.10.21-12.13.07:288][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007429s)
+[2019.10.21-12.13.07:289][141]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.13.07:289][141]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.10.21-12.13.07:289][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.008410s)
+[2019.10.21-12.13.07:486][141]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.13.07:498][141]LogInit: FAudioDevice initialized.
+[2019.10.21-12.13.07:534][141]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.13.07:537][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.21-14.13.07
+[2019.10.21-12.13.07:538][141]LogWorld: Bringing up level for play took: 0.003075
+[2019.10.21-12.13.07:552][141]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.13.07:579][141]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0,282
+[2019.10.21-12.13.07:580][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.13.25:252][223]LogScript: Warning: Accessed None trying to read property Lacher Objet
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:ExecuteUbergraph_BP_MainPerso:02FC
+[2019.10.21-12.13.25:252][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Lacher Objet". Blueprint:  BP_MainPerso Function:  Execute Ubergraph BP Main Perso Graph:  EventGraph Node:  Remove from Parent
+[2019.10.21-12.13.28:861][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.13.48:577][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.13.52:459][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.13.52:460][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.13.52:494][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.13.52:494][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.13.52:611][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.13.52:657][432]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.21-12.13.59:655][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.14.05:863][977]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_Inventaire.W_Inventaire
+[2019.10.21-12.14.07:048][977]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2019.10.21-12.14.08:546][977]LogSlate: Took 0.021894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.21-12.14.35:234][335]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_BarreInventaire.W_BarreInventaire
+[2019.10.21-12.14.41:344][557]LogSlate: Window 'W_BarreInventaire*' being destroyed
+[2019.10.21-12.15.15:985][593]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/w_Item.W_Item
+[2019.10.21-12.15.17:598][707]LogSlate: Took 0.063567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.21-12.17.07:812][811]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.21-12.17.18:204][332]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.21-12.17.19:988][418]BlueprintLog: New page: Compile W_BarreInventaire
+[2019.10.21-12.17.54:494][ 41]LogMetaData: Removing '/Game/Widgets/W_ItemInventaire.W_ItemInventaire_C' ref from Metadata '/Game/Widgets/w_Item.PackageMetaData'
+[2019.10.21-12.17.54:494][ 41]LogMetaData: Removing '/Game/Widgets/W_ItemInventaire.W_ItemInventaire:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Widgets/w_Item.PackageMetaData'
+[2019.10.21-12.17.54:494][ 41]LogMetaData: Removing '/Game/Widgets/W_ItemInventaire.W_ItemInventaire:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Widgets/w_Item.PackageMetaData'
+[2019.10.21-12.17.54:494][ 41]LogMetaData: Removing '/Game/Widgets/W_ItemInventaire.SKEL_W_ItemInventaire_C' ref from Metadata '/Game/Widgets/w_Item.PackageMetaData'
+[2019.10.21-12.17.54:535][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_ItemInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/W_ItemInventaire.uasset" SILENT=true
+[2019.10.21-12.17.54:605][ 41]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_ItemInventaire4AB414D14C7ABC905166C1A62FD9859B.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/W_ItemInventaire.uasset'
+[2019.10.21-12.17.55:105][ 41]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.17.55:148][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personnage/Blueprints/BP_MainPerso" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset" SILENT=true
+[2019.10.21-12.17.56:273][ 41]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/BP_MainPerso89582C3C44B9948C6CF7E697ABA29DB5.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset'
+[2019.10.21-12.18.08:910][441]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_ItemBarreInventaire.W_ItemBarreInventaire
+[2019.10.21-12.18.30:742][773]LogSlate: Took 0.014398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.21-12.20.26:077][411]LogEditorTransaction: Undo Set Vector Property
+[2019.10.21-12.21.02:739][396]LogEditorTransaction: Undo Remove Widget
+[2019.10.21-12.22.27:528][315]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.21-12.22.35:994][129]LogEditorTransaction: Undo Move Widget
+[2019.10.21-12.24.07:031][804]BlueprintLog: New page: Compile W_ItemBarreInventaire
+[2019.10.21-12.24.08:747][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_ItemBarreInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/W_ItemBarreInventaire.uasset" SILENT=true
+[2019.10.21-12.24.08:825][934]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_ItemBarreInventaire461505A24743C274C96B829B943EA075.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/W_ItemBarreInventaire.uasset'
+[2019.10.21-12.24.09:594][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.24.09:679][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.24.09:680][ 12]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.21-12.24.09:764][ 12]LogPlayLevel: [PlayLevel] Compiling BP_MainPerso before play...
+[2019.10.21-12.24.09:869][ 12]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.24.10:143][ 12]LogPlayLevel: [PlayLevel] Compiling W_ItemInventaire before play...
+[2019.10.21-12.24.10:340][ 12]LogPlayLevel: [PlayLevel] Compiling W_BarreInventaire before play...
+[2019.10.21-12.24.10:666][ 12]LogPlayLevel: PlayLevel: Blueprint regeneration took 986 ms (3 blueprints)
+[2019.10.21-12.24.10:666][ 12]PIE: New page: PIE session: TestLevel (21 oct. 2019 16:24:10)
+[2019.10.21-12.24.10:666][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.10.21-12.24.10:672][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006048s)
+[2019.10.21-12.24.10:673][ 12]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.24.10:673][ 12]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2019.10.21-12.24.10:673][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.007078s)
+[2019.10.21-12.24.10:844][ 12]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.24.10:855][ 12]LogInit: FAudioDevice initialized.
+[2019.10.21-12.24.10:877][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.24.10:951][ 12]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.24.10:955][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.21-14.24.10
+[2019.10.21-12.24.10:955][ 12]LogWorld: Bringing up level for play took: 0.003614
+[2019.10.21-12.24.10:969][ 12]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.24.10:973][ 12]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,112
+[2019.10.21-12.24.10:974][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.24.11:036][ 12]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-12.24.11:864][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.24.11:864][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.24.11:901][ 68]LogSlate: Window 'Jeu_Foxing288 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.21-12.24.11:940][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.24.11:940][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.24.12:092][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.SKEL_W_BarreInventaire_C' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.W_BarreInventaire_C' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.W_BarreInventaire:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.W_BarreInventaire:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.W_BarreInventaire:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.SKEL_W_BarreInventaire_C:Tick' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.SKEL_W_BarreInventaire_C:Construct' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:043][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_BarreInventaire.SKEL_W_BarreInventaire_C:PreConstruct' ref from Metadata '/Game/Widgets/W_BarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:055][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.W_Inventaire_C' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:055][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.W_Inventaire:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.W_Inventaire:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.W_Inventaire:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.SKEL_W_Inventaire_C:PreConstruct' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.SKEL_W_Inventaire_C:Construct' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.SKEL_W_Inventaire_C:Tick' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.SKEL_W_Inventaire_C:VerticalBoxItems' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.SKEL_W_Inventaire_C' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:056][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_Inventaire.W_Inventaire_C:VerticalBoxItems' ref from Metadata '/Game/Widgets/W_Inventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C:BoutonItem' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C:ItemImage' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C:ItemNombre' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C:s_item' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C:Stacked ?' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.W_ItemBarreInventaire_C' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:BoutonItem' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:ItemImage' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:ItemNombre' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:s_item' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:Stacked ?' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:068][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemBarreInventaire.SKEL_W_ItemBarreInventaire_C:BndEvt__BoutonItem_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Widgets/W_ItemBarreInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:BoutonItem' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:ItemDescription' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:ItemImage' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:ItemName' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:ItemNombre' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:s_item' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire_C:Stacked ?' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.W_ItemInventaire:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:BoutonItem' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:BndEvt__BoutonItem_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:Stacked ?' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:s_item' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:ItemNombre' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:ItemName' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:ItemImage' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:079][430]LogMetaData: Removing '/Game/Widgets/Inventaires/W_ItemInventaire.SKEL_W_ItemInventaire_C:ItemDescription' ref from Metadata '/Game/Widgets/W_ItemInventaire.PackageMetaData'
+[2019.10.21-12.24.34:113][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Inventaires/W_BarreInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset" SILENT=true
+[2019.10.21-12.24.34:132][430]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_BarreInventaire9E75EA6742DC86967E67AAA9B8E78083.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset'
+[2019.10.21-12.24.34:141][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Inventaires/W_Inventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_Inventaire.uasset" SILENT=true
+[2019.10.21-12.24.34:161][430]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_Inventaire4A2A8AD645003D93F3C29CBC4D8570E1.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_Inventaire.uasset'
+[2019.10.21-12.24.34:241][430]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_ItemBarreInventaire1B84FAE14370E32CD4AB1599BDFFDD24.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_ItemBarreInventaire.uasset'
+[2019.10.21-12.24.34:249][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Inventaires/W_ItemInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_ItemInventaire.uasset" SILENT=true
+[2019.10.21-12.24.34:321][430]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_ItemInventaireEA48BEA943FF0C9DCA42C9A54399CF49.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_ItemInventaire.uasset'
+[2019.10.21-12.24.35:521][430]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_1.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.24.35:551][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personnage/Blueprints/BP_MainPerso" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset" SILENT=true
+[2019.10.21-12.24.35:797][430]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/BP_MainPerso8CA6C4CF4159026D2E8100988958D1A1.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset'
+[2019.10.21-12.27.54:208][630]BlueprintLog: New page: Compile W_BarreInventaire
+[2019.10.21-12.27.54:795][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Inventaires/W_BarreInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset" SILENT=true
+[2019.10.21-12.27.54:864][647]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_BarreInventaireBCC23FCA40B69D6995524CAE4ECB0939.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset'
+[2019.10.21-12.28.21:839][562]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel
+[2019.10.21-12.28.40:681][685]BlueprintLog: New page: Compile TestLevel
+[2019.10.21-12.28.41:687][761]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.28.41:736][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.28.41:736][761]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.21-12.28.41:827][761]LogPlayLevel: [PlayLevel] Compiling BP_MainPerso before play...
+[2019.10.21-12.28.41:945][761]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_1.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.28.42:227][761]LogPlayLevel: [PlayLevel] Compiling W_ItemInventaire before play...
+[2019.10.21-12.28.42:547][761]LogPlayLevel: PlayLevel: Blueprint regeneration took 810 ms (2 blueprints)
+[2019.10.21-12.28.42:547][761]PIE: New page: PIE session: TestLevel (21 oct. 2019 16:28:42)
+[2019.10.21-12.28.42:547][761]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.10.21-12.28.42:555][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008190s)
+[2019.10.21-12.28.42:557][761]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.28.42:557][761]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2019.10.21-12.28.42:557][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.009750s)
+[2019.10.21-12.28.42:730][761]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.28.42:740][761]LogInit: FAudioDevice initialized.
+[2019.10.21-12.28.42:763][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.28.42:815][761]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.28.42:819][761]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.21-14.28.42
+[2019.10.21-12.28.42:819][761]LogWorld: Bringing up level for play took: 0.003449
+[2019.10.21-12.28.42:834][761]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.28.42:837][761]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 0,977
+[2019.10.21-12.28.42:838][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.29.07:318][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.29.19:582][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.29.34:580][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.29.34:581][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.29.34:622][738]LogSlate: Window 'Jeu_Foxing288 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.21-12.29.34:665][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.29.34:665][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.29.34:829][739]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.21-12.30.03:357][240]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.21-12.30.04:581][299]BlueprintLog: New page: Compile W_BarreInventaire
+[2019.10.21-12.30.05:323][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.30.05:383][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.30.05:383][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.30.05:384][323]PIE: New page: PIE session: TestLevel (21 oct. 2019 16:30:05)
+[2019.10.21-12.30.05:384][323]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.10.21-12.30.05:391][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007686s)
+[2019.10.21-12.30.05:394][323]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.30.05:394][323]LogPlayLevel: PIE: World Init took: (0.002688s)
+[2019.10.21-12.30.05:394][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.010547s)
+[2019.10.21-12.30.05:556][323]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.30.05:566][323]LogInit: FAudioDevice initialized.
+[2019.10.21-12.30.05:591][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.30.05:648][323]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.30.05:651][323]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.21-14.30.05
+[2019.10.21-12.30.05:651][323]LogWorld: Bringing up level for play took: 0.002663
+[2019.10.21-12.30.05:666][323]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.30.05:669][323]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel -0,191
+[2019.10.21-12.30.05:670][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.30.07:196][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.30.07:196][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.30.07:232][386]LogSlate: Window 'Jeu_Foxing288 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.21-12.30.07:270][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.30.07:270][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.30.07:436][387]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.21-12.30.33:064][491]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/TestLevel_Auto1AFD0503F458E3EBB70C583B13B420833.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/Autosaves/Game/Levels/TestLevel_Auto1.umap'
+[2019.10.21-12.30.33:073][491]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.408
+[2019.10.21-12.30.33:073][491]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.408
+[2019.10.21-12.30.33:077][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Inventaires/W_BarreInventaire] ([1] browsable assets)...
+[2019.10.21-12.30.33:077][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Inventaires/W_BarreInventaire]
+[2019.10.21-12.30.33:124][491]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_BarreInventaire_Auto103C838D34DC04D548B64E795188FD867.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/Autosaves/Game/Widgets/Inventaires/W_BarreInventaire_Auto1.uasset'
+[2019.10.21-12.30.33:127][491]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.10.21-12.31.50:746][968]BlueprintLog: New page: Compile W_ItemBarreInventaire
+[2019.10.21-12.31.51:593][ 18]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_ItemBarreInventaire137773F04BE2B4D7E8A66282624F7AD3.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_ItemBarreInventaire.uasset'
+[2019.10.21-12.32.57:239][818]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.32.58:958][986]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso
+[2019.10.21-12.32.59:726][986]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.33.04:461][473]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.33.56:813][503]LogSlate: Took 0.016756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.21-12.34.13:846][172]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Personnage/Items/S_Items.S_Items
+[2019.10.21-12.34.52:251][301]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.34.52:253][301]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.34.59:776][ 94]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.34.59:778][ 94]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.09:958][ 46]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.09:960][ 46]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.11:995][227]LogClass: Warning: Type mismatch in BarreInventaire of SKEL_BP_MainPerso_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2019.10.21-12.35.11:999][227]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.12:001][227]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.19:553][892]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.19:555][892]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.19:694][893]BlueprintLog: New page: Compile BP_MainPerso
+[2019.10.21-12.35.19:932][893]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.19:932][893]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.20:233][893]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_2.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.20:235][893]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.20:238][893]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.20:277][893]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.20:280][893]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.38:239][704]LogEditorTransaction: Undo Delete current selection
+[2019.10.21-12.35.38:255][704]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.38:258][704]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.50:455][914]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.50:460][914]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.53:378][184]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.53:383][184]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.59:637][770]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.35.59:641][770]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.41:579][732]BlueprintLog: New page: Compile BP_MainPerso
+[2019.10.21-12.37.41:905][732]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.41:906][732]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.42:170][732]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.42:172][732]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_3.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.42:174][732]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.42:224][732]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.37.42:226][732]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.38.37:880][ 51]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.38.37:884][ 51]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.38.44:357][764]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.38.44:361][764]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:596][168]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:601][168]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:612][168]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:614][168]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:653][168]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.05:655][168]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.33:854][341]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.33:859][341]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.49:218][ 56]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.49:223][ 56]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.54:257][568]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.39.54:261][568]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.40.20:552][526]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.40.20:556][526]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.40.43:485][897]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.40.43:490][897]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_4.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.40.54:064][943]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.21-12.41.22:456][ 41]BlueprintLog: New page: Compile BP_MainPerso
+[2019.10.21-12.41.22:689][ 41]LogBlueprint: Error: [Compiler BP_MainPerso] This blueprint (self) is not a VerticalBox, therefore ' Target ' must have a connection.
+[2019.10.21-12.41.23:054][ 41]LogBlueprint: Warning: [Compiler BP_MainPerso] [1912,81] Compile of BP_MainPerso failed. 1 Fatal Issue(s) 0 Warning(s) [in 597 ms] (/Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso)
+[2019.10.21-12.41.52:505][178]BlueprintLog: New page: Compile BP_MainPerso
+[2019.10.21-12.41.52:748][178]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.52:749][178]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.53:057][178]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.53:060][178]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_5.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.53:062][178]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_6.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.53:082][178]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.41.53:085][178]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_6.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.45:399][729]BlueprintLog: New page: Compile BP_MainPerso
+[2019.10.21-12.43.45:667][729]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.45:668][729]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_6.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.45:990][729]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.45:993][729]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_6.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.45:994][729]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_7.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.46:049][729]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.46:052][729]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.BP_MainPerso_C_7.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.46:480][755]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.43.46:540][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.43.46:540][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.43.46:540][755]PIE: New page: PIE session: TestLevel (21 oct. 2019 16:43:46)
+[2019.10.21-12.43.46:541][755]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2019.10.21-12.43.46:547][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006268s)
+[2019.10.21-12.43.46:548][755]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.21-12.43.46:548][755]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.10.21-12.43.46:548][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.007339s)
+[2019.10.21-12.43.46:744][755]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.43.46:758][755]LogInit: FAudioDevice initialized.
+[2019.10.21-12.43.46:784][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.46:844][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.21-12.43.46:848][755]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.21-14.43.46
+[2019.10.21-12.43.46:848][755]LogWorld: Bringing up level for play took: 0.002948
+[2019.10.21-12.43.46:862][755]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2019.10.21-12.43.46:867][755]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestLevel 1,006
+[2019.10.21-12.43.46:867][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.43.49:359][935]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0013
+[2019.10.21-12.43.49:359][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.49:359][935]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0028
+[2019.10.21-12.43.49:359][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:022C
+[2019.10.21-12.43.49:360][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0241
+[2019.10.21-12.43.49:360][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:add Item to inventaire:0024
+[2019.10.21-12.43.49:360][935]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:add Item to inventaire:0208
+[2019.10.21-12.43.49:360][935]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:add Item to inventaire:022A
+[2019.10.21-12.43.49:360][935]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche2_5 via property ItemRef, but BP_Pioche2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.43.49:360][935]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0013
+[2019.10.21-12.43.49:361][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.49:361][935]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0028
+[2019.10.21-12.43.49:361][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.49:361][935]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:022C
+[2019.10.21-12.43.49:361][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.49:361][935]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0241
+[2019.10.21-12.43.49:362][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:495][112]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0013
+[2019.10.21-12.43.51:495][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.51:495][112]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0028
+[2019.10.21-12.43.51:495][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.51:496][112]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:022C
+[2019.10.21-12.43.51:496][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:496][112]LogScript: Warning: Accessed None
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:0241
+[2019.10.21-12.43.51:496][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:497][112]LogScript: Warning: Accessed None trying to read property W Barre Inventaire Ref
+	BP_MainPerso_C /Game/Levels/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_MainPerso_C_0
+	Function /Game/Personnage/Blueprints/BP_MainPerso.BP_MainPerso_C:Charger Barre Inventaire:022C
+[2019.10.21-12.43.51:497][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche4_11 via property ItemRef, but BP_Pioche4_11 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche4_11 via property ItemRef, but BP_Pioche4_11 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche4_11 via property ItemRef, but BP_Pioche4_11 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.51:498][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.51:499][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:499][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:500][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.51:500][112]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:367][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.52:367][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.52:368][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:368][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:369][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:369][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche_2 via property ItemRef, but BP_Pioche_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche_2 via property ItemRef, but BP_Pioche_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche_2 via property ItemRef, but BP_Pioche_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.43.52:370][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.52:371][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.52:371][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:371][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:372][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:372][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:372][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.52:373][177]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:964][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.54:964][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.54:965][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:965][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:966][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:966][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:966][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:966][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche3_8 via property ItemRef, but BP_Pioche3_8 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche3_8 via property ItemRef, but BP_Pioche3_8 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Pioche3_8 via property ItemRef, but BP_Pioche3_8 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.54:968][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.43.54:969][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:969][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:970][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:970][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:970][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:970][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:971][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.43.54:971][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:328][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:328][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:329][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:329][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:330][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:330][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:331][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:331][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:331][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:331][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:332][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:332][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:332][157]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache_2 via property ItemRef, but BP_Hache_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.44.05:332][157]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache_2 via property ItemRef, but BP_Hache_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.44.05:333][157]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache_2 via property ItemRef, but BP_Hache_2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.44.05:335][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:335][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:336][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:336][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:337][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:337][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:338][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:338][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:339][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:339][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:339][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:339][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:731][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:731][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:731][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:732][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:732][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:732][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:733][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:733][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:734][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:734][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:734][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:734][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:735][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:735][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:735][188]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache3 via property ItemRef, but BP_Hache3 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.44.05:735][188]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache3 via property ItemRef, but BP_Hache3 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.44.05:735][188]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache3 via property ItemRef, but BP_Hache3 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.44.05:738][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:739][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.05:739][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:739][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:740][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:740][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:741][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:741][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:742][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:742][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:742][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:742][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:743][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.05:743][188]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:142][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:142][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:143][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:143][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:144][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:144][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:145][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:145][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:145][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:145][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:146][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:146][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:147][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:147][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:148][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:148][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:148][219]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache2 via property ItemRef, but BP_Hache2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.44.06:148][219]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache2 via property ItemRef, but BP_Hache2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.44.06:148][219]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Hache2 via property ItemRef, but BP_Hache2 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.44.06:152][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:152][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:152][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:153][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:154][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:154][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:154][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:154][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:155][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:155][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:156][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:156][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:157][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:157][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:157][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:157][219]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:910][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:910][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:911][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:911][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:912][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:912][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:913][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:913][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:914][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:914][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:914][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:914][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:915][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:915][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:916][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:916][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:917][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:917][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:917][275]PIE: Error: Blueprint Runtime Error: "Attempted to access Bp_Pomme2_5 via property ItemRef, but Bp_Pomme2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Set Item Struct ref
+[2019.10.21-12.44.06:917][275]PIE: Error: Blueprint Runtime Error: "Attempted to access Bp_Pomme2_5 via property ItemRef, but Bp_Pomme2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  Add
+[2019.10.21-12.44.06:917][275]PIE: Error: Blueprint Runtime Error: "Attempted to access Bp_Pomme2_5 via property ItemRef, but Bp_Pomme2_5 is pending kill". Blueprint:  BP_MainPerso Function:  Add Item To Inventaire Graph:  add Item to inventaire Node:  DestroyActor
+[2019.10.21-12.44.06:922][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:922][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Clear Children
+[2019.10.21-12.44.06:923][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:923][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:923][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:924][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:924][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:924][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:925][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:925][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:926][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:926][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:927][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:927][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:928][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:928][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:929][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property W Barre Inventaire Ref". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.06:929][275]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_MainPerso Function:  Charger Barre Inventaire Graph:  Charger Barre Inventaire Node:  Add Child to Horizontal Box
+[2019.10.21-12.44.10:652][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.44.12:482][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.21-12.44.12:951][707]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/TestLevel56CAA7954E85329ACB00FE87B6F6C849.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Levels/TestLevel.umap'
+[2019.10.21-12.44.13:042][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel_BuiltData" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Levels/TestLevel_BuiltData.uasset" SILENT=true
+[2019.10.21-12.44.13:109][707]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/TestLevel_BuiltData0AB1BDAE4D93794759D8659DA417E6AB.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.10.21-12.44.17:509][867]LogSlate: Window 'Save Content' being destroyed
+[2019.10.21-12.44.17:543][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personnage/Blueprints/BP_MainPerso" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset" SILENT=true
+[2019.10.21-12.44.17:850][867]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/BP_MainPerso4E40A1C540D816FC80DCE9A5DCE68C00.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Personnage/Blueprints/BP_MainPerso.uasset'
+[2019.10.21-12.44.17:857][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Inventaires/W_BarreInventaire" FILE="../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset" SILENT=true
+[2019.10.21-12.44.17:906][867]LogSavePackage: Moving '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Saved/W_BarreInventaire6FDC20C14D592F4C0C401698E5D71813.tmp' to '../../../../../../GitHub/Jeu-Foxing288/Jeu_Foxing288/Content/Widgets/Inventaires/W_BarreInventaire.uasset'
+[2019.10.21-12.44.18:522][867]LogSlate: Window 'Jeu_Foxing288 - Unreal Editor' being destroyed
+[2019.10.21-12.44.18:898][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.44.18:899][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.44.18:939][867]LogSlate: Window 'Jeu_Foxing288 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.21-12.44.18:940][867]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.21-12.44.18:976][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.44.18:976][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.21-12.44.19:105][868]Cmd: QUIT_EDITOR
+[2019.10.21-12.44.19:369][868]LogExit: Preparing to exit.
+[2019.10.21-12.44.20:507][868]LogExit: Editor shut down
+[2019.10.21-12.44.20:508][868]LogExit: Transaction tracking system shut down
+[2019.10.21-12.44.21:181][868]LogExit: Object subsystem successfully closed.
+[2019.10.21-12.44.21:252][868]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.21-12.44.21:259][868]LogD3D11RHI: Shutdown
+[2019.10.21-12.44.21:259][868]LogD3D11RHI: CleanupD3DDevice
+[2019.10.21-12.44.21:265][868]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module StatsViewer (616)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (610)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2019.10.21-12.44.21:324][868]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2019.10.21-12.44.21:325][868]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.10.21-12.44.21:326][868]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.10.21-12.44.21:327][868]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.10.21-12.44.21:328][868]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.10.21-12.44.22:370][868]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.10.21-12.44.22:370][868]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.10.21-12.44.22:371][868]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.10.21-12.44.22:372][868]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.10.21-12.44.22:438][868]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.10.21-12.44.22:439][868]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.10.21-12.44.22:449][868]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.10.21-12.44.22:449][868]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.10.21-12.44.22:451][868]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.10.21-12.44.22:452][868]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.21-12.44.22:475][868]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.10.21-12.44.22:476][868]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.10.21-12.44.22:480][868]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.10.21-12.44.22:481][868]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.10.21-12.44.22:482][868]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.21-12.44.22:483][868]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.21-12.44.22:584][868]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.21-12.44.22:685][868]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.21-12.44.22:686][868]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.21-12.44.22:686][868]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.21-12.44.22:687][868]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.21-12.44.22:687][868]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.21-12.44.22:687][868]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.21-12.44.22:689][868]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.21-12.44.22:689][868]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.21-12.44.22:689][868]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.21-12.44.22:689][868]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.21-12.44.22:689][868]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.21-12.44.22:690][868]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.10.21-12.44.22:692][868]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.10.21-12.44.22:698][868]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.10.21-12.44.22:698][868]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.10.21-12.44.22:698][868]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.10.21-12.44.22:718][868]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.10.21-12.44.22:719][868]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.10.21-12.44.22:719][868]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.10.21-12.44.22:719][868]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.10.21-12.44.22:719][868]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.21-12.44.22:721][868]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.10.21-12.44.22:722][868]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.10.21-12.44.22:823][868]LogDerivedDataCache: Shutdown
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.10.21-12.44.22:824][868]LogXGEController: Cleaning working directory: C:/Users/loedu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.10.21-12.44.22:824][868]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.10.21-12.44.22:825][868]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.10.21-12.44.22:828][868]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.10.21-12.44.22:828][868]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.10.21-12.44.22:830][868]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.10.21-12.44.22:830][868]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.10.21-12.44.22:846][868]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.10.21-12.44.22:846][868]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.10.21-12.44.22:847][868]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.10.21-12.44.22:848][868]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.10.21-12.44.22:848][868]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.10.21-12.44.22:850][868]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.10.21-12.44.22:850][868]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.21-12.44.22:850][868]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0FB30469-435F-2467-4C1A-68BE931F5BF7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=9b0a52c14a5c7a9620735097bff624ad%7C5c5ab3be1d1d4eee8e0eec12c688a783%7C0f3abe9a-5cc9-4b26-971d-38f182d2bb9b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.21-12.44.22:855][868]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.10.21-12.44.22:857][868]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.10.21-12.44.22:857][868]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.10.21-12.44.22:857][868]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.10.21-12.44.22:857][868]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.10.21-12.44.22:858][868]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.21-12.44.22:858][868]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.21-12.44.22:885][868]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.21-12.44.22:885][868]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.21-12.44.22:885][868]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.21-12.44.22:886][868]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.21-12.44.22:887][868]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.21-12.44.22:896][868]LogExit: Exiting.
+[2019.10.21-12.44.22:906][868]Log file closed, 10/21/19 14:44:22
